@@ -1,10 +1,5 @@
-# React-Map-Application
 This application is developed in React JS. Features include spotting the current location, finding possible route of places and track the distance.
 
-Replace the Google_API_Key in the application and run it in terminal
-         npm start
+Replace the Google_API_Key in the application and run it in terminal "npm start"
 
-Install dependencies
-         npm install
-
-         
+Install dependencies "npm install"
